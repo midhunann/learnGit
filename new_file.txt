@@ -1,0 +1,10 @@
+Hey this file was created to note when a new file
+is created the file itself will be untracked.
+
+To save this file you will have to track the file,
+inorder to do so you must add the file.
+
+git add .     //this is to add the changes made in all
+                the files and also the new files created
+
+git add <file_name>      //this is to add the mentioned file only
