@@ -11,3 +11,5 @@ git add <file_name>      //this is to add the mentioned file only
 
 
 Hello from branch main
+
+Hello from branch 'testMergeConflicts'
