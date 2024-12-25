@@ -8,3 +8,7 @@ git add .     //this is to add the changes made in all
                 the files and also the new files created
 
 git add <file_name>      //this is to add the mentioned file only
+
+
+
+Hello from branch 'testMergeConflicts'
