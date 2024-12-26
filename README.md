@@ -45,3 +45,30 @@ After installing Git, configure it with your name and email:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+```
+
+## Key Concepts
+
+### Version Control
+### Repository
+### Working Directory, Staging Area, and Commit
+
+## Git Commands Cheat Sheet
+
+### Basic Commands
+### Branching
+### Collaborating
+### Advanced Commands
+
+## Git Workflow Explained
+
+## Common Scenarios and Solutions
+
+## My Handwritted Notes
+
+## Resources
+
+
+
+
+
