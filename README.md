@@ -305,8 +305,8 @@ git status
 ---
 
 ## Resources
-[Git and GitHub for Beginners - Crash Course | freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=-5O2bfziUUlONquI)
-[Git and GitHub learning resources | GitHub](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
+[Git and GitHub for Beginners - Crash Course | freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=-5O2bfziUUlONquI)\
+[Git and GitHub learning resources | GitHub](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)\
 
 
 This README aims to serve as a quick reference for all key Git and GitHub concepts. Happy coding!
