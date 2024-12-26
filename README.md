@@ -27,12 +27,12 @@ I have included all of the concepts I have learned in this readme file, do use i
 ## What is Git?
 Git is a distributed version control system designed to track changes in source code efficiently. It enables multiple developers to collaborate on projects by maintaining version histories and managing branches.
 
-## 2. What is GitHub?
+## What is GitHub?
 GitHub is a web-based platform for version control and collaboration using Git. It provides hosting for Git repositories and adds features like pull requests, issue tracking, and project management tools.
 
 ---
 
-## 3. Installing Git
+## Installing Git
 
 1. **Windows:** Download from [git-scm.com](https://git-scm.com/) and follow the installer.
 2. **Mac:** Use Homebrew: `brew install git`.
@@ -49,7 +49,7 @@ git --version
 
 ---
 
-## 4. Configuring Git
+## Configuring Git
 
 Set up your identity:
 ```bash
@@ -64,7 +64,7 @@ git config --list
 
 ---
 
-## 5. Basic Git Workflow
+## Basic Git Workflow
 1. **Initialize a repository:**
    ```bash
    git init
@@ -85,7 +85,7 @@ git config --list
 
 ---
 
-## 6. Important Git Commands
+## Important Git Commands
 
 ### Create a new repository
 ```bash
@@ -125,7 +125,7 @@ git diff
 
 ---
 
-## 7. Branching and Merging
+## Branching and Merging
 
 ### Create a branch
 ```bash
@@ -154,7 +154,7 @@ git branch -d <branch-name>
 
 ---
 
-## 8. Remote Repositories
+## Remote Repositories
 
 ### Add a remote repository
 ```bash
@@ -178,7 +178,7 @@ git pull origin <branch-name>
 
 ---
 
-## 9. Stashing and Cleaning
+## Stashing and Cleaning
 
 ### Stash changes
 ```bash
@@ -202,7 +202,7 @@ git clean -f
 
 ---
 
-## 10. Git Logs and History
+## Git Logs and History
 
 ### Show commit history
 ```bash
@@ -221,7 +221,7 @@ git log --graph --oneline --all
 
 ---
 
-## 11. GitHub Workflow
+## GitHub Workflow
 
 1. Create a repository on GitHub.
 2. Clone it locally:
@@ -240,7 +240,7 @@ git log --graph --oneline --all
 
 ---
 
-## 12. Collaborating on GitHub
+## Collaborating on GitHub
 
 ### Fork a repository
 1. Click "Fork" on GitHub.
@@ -255,7 +255,7 @@ git log --graph --oneline --all
 
 ---
 
-## 13. Advanced Git Commands
+## Advanced Git Commands
 
 ### Revert a commit
 ```bash
@@ -279,7 +279,7 @@ git cherry-pick <commit-hash>
 
 ---
 
-## 14. Troubleshooting Git Issues
+## Troubleshooting Git Issues
 
 ### Undo the last commit
 ```bash
@@ -304,7 +304,7 @@ git status
 
 ---
 
-## 15. Resources
+## Resources
 [Git and GitHub for Beginners - Crash Course | freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=-5O2bfziUUlONquI)
 [Git and GitHub learning resources | GitHub](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
 
