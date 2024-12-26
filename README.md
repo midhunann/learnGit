@@ -24,7 +24,7 @@ I have included all of the concepts I have learned in this readme file, do use i
 
 ---
 
-## 1. What is Git?
+## What is Git?
 Git is a distributed version control system designed to track changes in source code efficiently. It enables multiple developers to collaborate on projects by maintaining version histories and managing branches.
 
 ## 2. What is GitHub?
