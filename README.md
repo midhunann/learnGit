@@ -1,7 +1,8 @@
 # Git and GitHub: A Complete Guide
 
-Welcome to this comprehensive guide to Git and GitHub! Whether you're a beginner or looking to brush up on your knowledge, this README file will cover all the essential concepts and commands you need to know.
+This repository was created to learn Git and GitHub more practically by implementing all commands.
 
+I have included all of the concepts I have learned in this readme file, do use it.
 ---
 
 ## Table of Contents
@@ -19,6 +20,7 @@ Welcome to this comprehensive guide to Git and GitHub! Whether you're a beginner
 12. [Collaborating on GitHub](#collaborating-on-github)
 13. [Advanced Git Commands](#advanced-git-commands)
 14. [Troubleshooting Git Issues](#troubleshooting-git-issues)
+15. [Resources](#resources)
 
 ---
 
@@ -301,5 +303,10 @@ git status
 ```
 
 ---
+
+## 15. Resources
+[Git and GitHub for Beginners - Crash Course | freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=-5O2bfziUUlONquI)
+[Git and GitHub learning resources | GitHub](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
+
 
 This README aims to serve as a quick reference for all key Git and GitHub concepts. Happy coding!
