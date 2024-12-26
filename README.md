@@ -2,6 +2,7 @@
 
 This repository was created to learn Git and GitHub more practically by implementing all commands.
 I have included all of the concepts I have learned in this readme file, do use it.
+
 ---
 
 ## Table of Contents
